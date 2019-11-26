@@ -1,3 +1,5 @@
+Yes, i want to know how much people viewed this. [![HitCount](http://hits.dwyl.io/33kk/userstyles-stuff.svg)](http://hits.dwyl.io/33kk/userstyles-stuff)
+
 ## Installation
 
 ### Uninstalling Stylish and why you should:
