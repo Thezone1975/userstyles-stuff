@@ -1,4 +1,4 @@
-Yes, i want to know how much people viewed this. [![HitCount](http://hits.dwyl.io/33kk/userstyles-stuff.svg)](http://hits.dwyl.io/33kk/userstyles-stuff)
+Yes, i want to know how many people viewed this. [![HitCount](http://hits.dwyl.io/33kk/userstyles-stuff.svg)](http://hits.dwyl.io/33kk/userstyles-stuff)
 
 ## Installation
 
